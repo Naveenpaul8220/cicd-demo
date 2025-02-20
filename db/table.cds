@@ -3,6 +3,7 @@ namespace db;
 entity employee  {
     key id: Integer;
     Name:String;
-    Age:Integer
+    Age:Integer;
+    Phone:String(10)
 }
 
