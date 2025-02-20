@@ -5,6 +5,5 @@ entity employee  {
     Name:String;
     Age:Integer;
     email:String(500);
-    phn:Integer;
 }
 
